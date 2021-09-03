@@ -12,7 +12,7 @@ Fast sub-domain bruteforcing tool also find out which server or technology run b
 
 # INSTALLATION
 
-git clone
+git clone https://github.com/bhaveshharmalkar/Finder.git
 
 cd Finder
 
