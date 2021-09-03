@@ -37,8 +37,7 @@ then
 else
 	echo -e $'\n\t'"\e[1;91m Invalid Input \e[0m"
 fi	
-
-#sudo apt-get install libgcc1:i386	
+	
 sudo pip3 install requests
 sudo pip3 install argparse
 sudo pip3 install bs4
